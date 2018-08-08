@@ -2,6 +2,6 @@
 
 function scuberGreetingForFeet(ride){
   if (ride <= 400) {
-  console.log("You get a free sample"); 
+  console.log("This one is on me!"); 
   }
 } 
